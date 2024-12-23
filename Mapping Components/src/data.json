@@ -1,0 +1,32 @@
+[
+    {
+        "cardImage": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg",
+        "cardTitle": "Just Simple Card Title",
+        "cardDescription": "This is a simple card example with a caption.",
+        "cardButton": "Learn More"
+    },
+    {
+        "cardImage": "https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg",
+        "cardTitle": "Modern Workspace",
+        "cardDescription": "Explore the beauty of modern workspaces designed for productivity.",
+        "cardButton": "Discover"
+    },
+    {
+        "cardImage": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg",
+        "cardTitle": "Nature's Beauty",
+        "cardDescription": "Experience the tranquility of nature through this scenic view.",
+        "cardButton": "View More"
+    },
+    {
+        "cardImage": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg",
+        "cardTitle": "City at Night",
+        "cardDescription": "Witness the vibrant life of the city during nighttime.",
+        "cardButton": "Explore"
+    },
+    {
+        "cardImage": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg",
+        "cardTitle": "Mountain Adventure",
+        "cardDescription": "Embark on an unforgettable adventure to the mountains.",
+        "cardButton": "Join Now"
+    }
+]
