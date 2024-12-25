@@ -1,0 +1,38 @@
+[
+    {
+        "profileImage": "https://wallpapers.com/images/hd/default-profile-picture-placeholder-w3qviez7xyel1vbk.png",
+        "fullName": "Touhiduzzaman Pavel",
+        "designation": "MERN Stack Developer",
+        "phones": [
+            {
+                "home": "01738-xxxxxx",
+                "work": "01571-xxxxxx"
+            }
+        ],
+        "email": "touhid.pavel.dev@gmail.com"
+    },
+    {
+        "profileImage": "https://wallpapers.com/images/hd/default-profile-picture-placeholder-w3qviez7xyel1vbk.png",
+        "fullName": "Tariquzzaman Tapon",
+        "designation": "MERN Stack Developer",
+        "phones": [
+            {
+                "home": "01761-xxxxxx",
+                "work": "01518-xxxxxx"
+            }
+        ],
+        "email": "tariquzzaman.tapon@gmail.com"
+    },
+    {
+        "profileImage": "https://wallpapers.com/images/hd/default-profile-picture-placeholder-w3qviez7xyel1vbk.png",
+        "fullName": "Kaniz Fatema",
+        "designation": "UI/UX Designer",
+        "phones": [
+            {
+                "home": "01736-xxxxxx",
+                "work": "01517-xxxxxx"
+            }
+        ],
+        "email": "kaniz3112@gmail.com"
+    }
+]
