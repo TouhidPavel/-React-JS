@@ -1,0 +1,20 @@
+[
+    {
+        "productImage": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg",
+        "productTitle": "Nature's Beauty",
+        "productDescription": "Experience the tranquility of nature through this scenic view.",
+        "productButton": "View More"
+    },
+    {
+        "productImage": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg",
+        "productTitle": "City at Night",
+        "productDescription": "Witness the vibrant life of the city during nighttime.",
+        "productButton": "Explore"
+    },
+    {
+        "productImage": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg",
+        "productTitle": "Mountain Adventure",
+        "productDescription": "Embark on an unforgettable adventure to the mountains.",
+        "productButton": "Join Now"
+    }
+]
