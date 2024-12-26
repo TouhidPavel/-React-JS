@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body {
+    font-family: Jetbrains Mono, serif;
+    background-color: #f1f1f1;
+}
+
+/* Icon */
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    width: 150px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+button .icon {
+    font-size: 20px;
+}
+
+/* Platform-specific styles */
+button.facebook {
+    background-color: #3b5998;
+}
+
+button.twitter {
+    background-color: #1da1f2;
+}
+
+button.instagram {
+    background: linear-gradient(
+        45deg,
+        #f09433,
+        #e6683c,
+        #dc2743,
+        #cc2366,
+        #bc1888
+    );
+}
+
+button.linkedin {
+    background-color: #0077b5;
+}
+
+button.youtube {
+    background-color: #ff0000;
+}
